@@ -1,3 +1,4 @@
-# KT-6161Display-Driver
-use your KT-6161 display from a salvaged set top box front panel
+# FD650-TM1650-Arduino
+a arduino library for displaying on FD650 or TM1650 Display modules
+# *STILL ON BUILD!*
 
