@@ -1,4 +1,4 @@
-````markdown
+
 # FD650-TM1650-Arduino
 
 An easy-to-use Arduino library for driving **FD650** and **TM1650** 7-segment LED display modules, including front-panel displays salvaged from digital set-top boxes (STBs).
@@ -102,6 +102,3 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 See the `LICENSE` file for details.
 
 ---
-
-Made with ❤️ for the Arduino and hardware recycling community.
-````
