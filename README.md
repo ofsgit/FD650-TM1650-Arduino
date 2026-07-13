@@ -45,7 +45,7 @@ Common examples include:
 Or clone it with Git:
 
 ```bash
-git clone https://github.com/<your-username>/FD650-TM1650-Arduino.git
+git clone https://github.com/ofsgit/FD650-TM1650-Arduino.git
 ```
 
 ## Example
