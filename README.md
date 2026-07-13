@@ -48,23 +48,6 @@ Or clone it with Git:
 git clone https://github.com/ofsgit/FD650-TM1650-Arduino.git
 ```
 
-## Example
-
-```cpp
-#include <FD650_TM1650.h>
-
-FD650_TM1650 display;
-
-void setup() {
-    display.begin();
-    display.print("1234");
-}
-
-void loop() {
-
-}
-```
-
 > The exact API may vary depending on the library version.
 
 ## Why this library?
